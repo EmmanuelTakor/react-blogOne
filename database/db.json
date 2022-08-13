@@ -1,0 +1,7 @@
+{
+    "blogs":[
+        {"title":"The great Man","author":"Geolini","body":"The great Man body","id":1},
+    {"title":"The blue Man","author":"Zoalini","body":"The blue Man body","id":2},
+    {"title":"The red Man","author":"Jajola","body":"The red Man body","id":3}
+    ]
+}
